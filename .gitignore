@@ -1,0 +1,16 @@
+.env
+
+# Données financières réelles (fichiers sources d'import) — jamais dans un repo public
+*.xlsx
+*.xls
+*.csv
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+node_modules/
+dist/
+
+.DS_Store
